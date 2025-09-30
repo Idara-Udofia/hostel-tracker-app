@@ -1,0 +1,8 @@
+
+{
+  "name": "Federal Polytechnic Ukana - Female Hostel Student Tracker",
+  "description": "A QR-code-based student tracking system for monitoring entry and exit at the female hostel, featuring real-time camera capture and logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
